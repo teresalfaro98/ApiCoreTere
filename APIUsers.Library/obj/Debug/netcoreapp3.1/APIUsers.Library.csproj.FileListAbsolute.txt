@@ -1,0 +1,10 @@
+C:\Users\Tere\source\repos\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.deps.json
+C:\Users\Tere\source\repos\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.dll
+C:\Users\Tere\source\repos\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfoInputs.cache
+C:\Users\Tere\source\repos\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfo.cs
+C:\Users\Tere\source\repos\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.csprojAssemblyReference.cache
+C:\Users\Tere\source\repos\MiVersion\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.deps.json
+C:\Users\Tere\source\repos\MiVersion\APIUsers.Library\bin\Debug\netcoreapp3.1\APIUsers.Library.dll
+C:\Users\Tere\source\repos\MiVersion\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.csprojAssemblyReference.cache
+C:\Users\Tere\source\repos\MiVersion\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfoInputs.cache
+C:\Users\Tere\source\repos\MiVersion\APIUsers.Library\obj\Debug\netcoreapp3.1\APIUsers.Library.AssemblyInfo.cs
